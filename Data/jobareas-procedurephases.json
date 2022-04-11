@@ -1,0 +1,162 @@
+[
+    {
+      "id": 3,
+      "jobAreaId": 2,
+      "jobAreaName": "Patentes",
+      "procedurePhaseId": 10,
+      "procedurePhaseName": "Fondo",
+      "status": true
+    },
+    {
+      "id": 4,
+      "jobAreaId": 2,
+      "jobAreaName": "Patentes",
+      "procedurePhaseId": 3,
+      "procedurePhaseName": "Oposición",
+      "status": true
+    },
+    {
+      "id": 5,
+      "jobAreaId": 2,
+      "jobAreaName": "Patentes",
+      "procedurePhaseId": 4,
+      "procedurePhaseName": "Negativa",
+      "status": true
+    },
+    {
+      "id": 6,
+      "jobAreaId": 2,
+      "jobAreaName": "Patentes",
+      "procedurePhaseId": 5,
+      "procedurePhaseName": "Concesíón",
+      "status": true
+    },
+    {
+      "id": 7,
+      "jobAreaId": 2,
+      "jobAreaName": "Patentes",
+      "procedurePhaseId": 14,
+      "procedurePhaseName": "Anualidades",
+      "status": true
+    },
+    {
+      "id": 8,
+      "jobAreaId": 2,
+      "jobAreaName": "Patentes",
+      "procedurePhaseId": 7,
+      "procedurePhaseName": "Sin fase",
+      "status": true
+    },
+    {
+      "id": 10,
+      "jobAreaId": 1,
+      "jobAreaName": "Marcas",
+      "procedurePhaseId": 2,
+      "procedurePhaseName": "Forma y Fondo",
+      "status": true
+    },
+    {
+      "id": 11,
+      "jobAreaId": 1,
+      "jobAreaName": "Marcas",
+      "procedurePhaseId": 3,
+      "procedurePhaseName": "Oposición",
+      "status": true
+    },
+    {
+      "id": 12,
+      "jobAreaId": 1,
+      "jobAreaName": "Marcas",
+      "procedurePhaseId": 4,
+      "procedurePhaseName": "Negativa",
+      "status": true
+    },
+    {
+      "id": 13,
+      "jobAreaId": 1,
+      "jobAreaName": "Marcas",
+      "procedurePhaseId": 5,
+      "procedurePhaseName": "Concesíón",
+      "status": true
+    },
+    {
+      "id": 14,
+      "jobAreaId": 1,
+      "jobAreaName": "Marcas",
+      "procedurePhaseId": 6,
+      "procedurePhaseName": "Renovación",
+      "status": true
+    },
+    {
+      "id": 26,
+      "jobAreaId": 9,
+      "jobAreaName": "Patentes Extranjero",
+      "procedurePhaseId": 9,
+      "procedurePhaseName": "Forma",
+      "status": true
+    },
+    {
+      "id": 27,
+      "jobAreaId": 9,
+      "jobAreaName": "Patentes Extranjero",
+      "procedurePhaseId": 10,
+      "procedurePhaseName": "Fondo",
+      "status": true
+    },
+    {
+      "id": 28,
+      "jobAreaId": 9,
+      "jobAreaName": "Patentes Extranjero",
+      "procedurePhaseId": 3,
+      "procedurePhaseName": "Oposición",
+      "status": true
+    },
+    {
+      "id": 29,
+      "jobAreaId": 9,
+      "jobAreaName": "Patentes Extranjero",
+      "procedurePhaseId": 4,
+      "procedurePhaseName": "Negativa",
+      "status": true
+    },
+    {
+      "id": 30,
+      "jobAreaId": 9,
+      "jobAreaName": "Patentes Extranjero",
+      "procedurePhaseId": 5,
+      "procedurePhaseName": "Concesíón",
+      "status": true
+    },
+    {
+      "id": 31,
+      "jobAreaId": 9,
+      "jobAreaName": "Patentes Extranjero",
+      "procedurePhaseId": 7,
+      "procedurePhaseName": "Sin fase",
+      "status": true
+    },
+    {
+      "id": 33,
+      "jobAreaId": 10,
+      "jobAreaName": "Marcas Extranjero",
+      "procedurePhaseId": 2,
+      "procedurePhaseName": "Forma y Fondo",
+      "status": true
+    },
+    {
+      "id": 34,
+      "jobAreaId": 10,
+      "jobAreaName": "Marcas Extranjero",
+      "procedurePhaseId": 3,
+      "procedurePhaseName": "Oposición",
+      "status": true
+    },
+    {
+      "id": 35,
+      "jobAreaId": 10,
+      "jobAreaName": "Marcas Extranjero",
+      "procedurePhaseId": 4,
+      "procedurePhaseName": "Negativa",
+      "status": true
+    }
+  ]

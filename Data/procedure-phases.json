@@ -1,0 +1,52 @@
+[
+    {
+        "id": 7,
+        "name": "Sin fase",
+        "status": true
+    },
+    {
+        "id": 9,
+        "name": "Forma",
+        "status": true
+    },
+    {
+        "id": 10,
+        "name": "Fondo",
+        "status": true
+    },
+    {
+        "id": 14,
+        "name": "Anualidades",
+        "status": true
+    },
+    {
+        "id": 2,
+        "name": "Forma y Fondo",
+        "status": true
+    },
+    {
+        "id": 52,
+        "name": "Presentación",
+        "status": true
+    },
+    {
+        "id": 3,
+        "name": "Oposición",
+        "status": true
+    },
+    {
+        "id": 4,
+        "name": "Negativa",
+        "status": true
+    },
+    {
+        "id": 5,
+        "name": "Concesíón",
+        "status": true
+    },
+    {
+        "id": 6,
+        "name": "Renovación",
+        "status": true
+    }
+]

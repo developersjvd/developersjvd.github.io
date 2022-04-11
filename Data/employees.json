@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Juan Perez",
+        "phone": "1234567890",
+        "email": "juan_perez@correo.mx"
+    },
+    {
+        "id": 2,
+        "name": "Eduardo Lopez",
+        "phone": "1234567890",
+        "email": "correo@correo.com"
+    },
+    {
+        "id": 3,
+        "name": "Ana Lopez",
+        "phone": "1234567890",
+        "email": "correo@correo.dev"
+    },
+    {
+        "id": 4,
+        "name": "Oscar Lopez",
+        "phone": "1234567890",
+        "email": "any.mail.mx"
+    },
+    {
+        "id": 5,
+        "name": "Pedro Lopez",
+        "phone": "1234567890",
+        "email": "mai.l.mx"
+    },
+    {
+        "id": 6,
+        "name": "Juan Perez",
+        "phone": "1234567890",
+        "email": "correo@xtrange.co"
+    }
+]
