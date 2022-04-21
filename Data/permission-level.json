@@ -1,72 +1,72 @@
 [
     {
-        "id": 1,
-        "permisson_name": "Alta de factura de proveedores",
-        "permisson_level": 3
+    "id": 1,
+    "permission_name": "Alta de factura de proveedores",
+    "permission_level": 3
     },
     {
-        "id": 2,
-        "permisson_name": "Alta de pagos del IMPI",
-        "permisson_level": 3
+    "id": 2,
+    "permission_name": "Alta de pagos del IMPI",
+    "permission_level": 3
     },
     {
-        "id": 3,
-        "permisson_name": "Alta correo",
-        "permisson_level": 1
+    "id": 3,
+    "permission_name": "Alta correo",
+    "permission_level": 1
     },
     {
-        "id": 4,
-        "permisson_name": "Generar reportes",
-        "permisson_level": 1
+    "id": 4,
+    "permission_name": "Generar reportes",
+    "permission_level": 1
     },
     {
-        "id": 5,
-        "permisson_name": "Modificar datos trámite",
-        "permisson_level": 3
+    "id": 5,
+    "permission_name": "Modificar datos trámite",
+    "permission_level": 3
     },
     {
-        "id": 6,
-        "permisson_name": "Factura",
-        "permisson_level": 3
+    "id": 6,
+    "permission_name": "Factura",
+    "permission_level": 3
     },
     {
-        "id": 7,
-        "permisson_name": "Crear nota",
-        "permisson_level": 2
+    "id": 7,
+    "permission_name": "Crear nota",
+    "permission_level": 2
     },
     {
-        "id": 9,
-        "permisson_name": "Modificar vencimientos",
-        "permisson_level": 3
+    "id": 9,
+    "permission_name": "Modificar vencimientos",
+    "permission_level": 3
     },
     {
-        "id": 10,
-        "permisson_name": "Alta conceptos de cobro",
-        "permisson_level": 1
+    "id": 10,
+    "permission_name": "Alta conceptos de cobro",
+    "permission_level": 1
     },
     {
-        "id": 11,
-        "permisson_name": "Cancelar facturas",
-        "permisson_level": 3
+    "id": 11,
+    "permission_name": "Cancelar facturas",
+    "permission_level": 3
     },
     {
-        "id": 12,
-        "permisson_name": "Modificar el valor USD en las mañanas",
-        "permisson_level": 1
+    "id": 12,
+    "permission_name": "Modificar el valor USD en las mañanas",
+    "permission_level": 1
     },
     {
-        "id": 13,
-        "permisson_name": "Alta de avisos",
-        "permisson_level": 3
+    "id": 13,
+    "permission_name": "Alta de avisos",
+    "permission_level": 3
     },
     {
-        "id": 14,
-        "permisson_name": "Baja de notas",
-        "permisson_level": 2
+    "id": 14,
+    "permission_name": "Baja de notas",
+    "permission_level": 2
     },
     {
-        "id": 15,
-        "permisson_name": "Acceso al menú de sistema Admin",
-        "permisson_level": 4
+    "id": 15,
+    "permission_name": "Acceso al menú de sistema Admin",
+    "permission_level": 4
     }
-]
+    ]
