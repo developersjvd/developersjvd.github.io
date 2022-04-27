@@ -1,0 +1,22 @@
+[
+        {
+            id: 1,
+            lenguage: 'Español',
+            name: 'Nombre la correspondencia en español',
+        },
+        {
+            id: 2,
+            lenguage: 'Ingles',
+            name: 'Nombre la correspondencia en ingles',
+        },
+        {
+            id: 3,
+            lenguage: 'Portugues',
+            name: 'Nombre la correspondencia en portugues',
+        },
+        {
+            id: 4,
+            lenguage: 'Frances',
+            name: 'Nombre la correspondencia en frances',
+        }
+]
