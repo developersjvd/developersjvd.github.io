@@ -16,8 +16,8 @@
         "articleName": "2a. Presentación de solicitud de patente",
         "charge": 4550.00,
         "currency": "MXN",
-        "multipleRecords": true,
-        "discount": false
+        "multipleRecords": false,
+        "discount": true
     },
     {
         "id": 3,
@@ -26,7 +26,7 @@
         "articleName": "3a. Presentación de solicitud de patente",
         "charge": 4550.00,
         "currency": "MXN",
-        "multipleRecords": true,
+        "multipleRecords": false,
         "discount": false
     },
     {
@@ -36,7 +36,7 @@
         "articleName": "4a. Presentación de solicitud de patente",
         "charge": 4550.00,
         "currency": "MXN",
-        "multipleRecords": true,
+        "multipleRecords": false,
         "discount": false
     },
     {
@@ -47,7 +47,7 @@
         "charge": 4550.00,
         "currency": "MXN",
         "multipleRecords": true,
-        "discount": false
+        "discount": true
     },
     {
         "id": 6,
@@ -67,6 +67,6 @@
         "charge": 4550.00,
         "currency": "MXN",
         "multipleRecords": true,
-        "discount": false
+        "discount": true
     }
 ]
