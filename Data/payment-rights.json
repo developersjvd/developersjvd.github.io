@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "area": "Patentes",
+        "articleNumber": "1a",
+        "articleName": "1a. Presentación de solicitud de patente",
+        "charge": 4550.00,
+        "currency": "MXN",
+        "multipleRecords": true,
+        "discount": false
+    },
+    {
+        "id": 2,
+        "area": "Patentes",
+        "articleNumber": "2a",
+        "articleName": "2a. Presentación de solicitud de patente",
+        "charge": 4550.00,
+        "currency": "MXN",
+        "multipleRecords": true,
+        "discount": false
+    },
+    {
+        "id": 3,
+        "area": "Patentes",
+        "articleNumber": "3a",
+        "articleName": "3a. Presentación de solicitud de patente",
+        "charge": 4550.00,
+        "currency": "MXN",
+        "multipleRecords": true,
+        "discount": false
+    },
+    {
+        "id": 4,
+        "area": "Patentes",
+        "articleNumber": "4a",
+        "articleName": "4a. Presentación de solicitud de patente",
+        "charge": 4550.00,
+        "currency": "MXN",
+        "multipleRecords": true,
+        "discount": false
+    },
+    {
+        "id": 5,
+        "area": "Patentes",
+        "articleNumber": "5a",
+        "articleName": "5a. Presentación de solicitud de patente",
+        "charge": 4550.00,
+        "currency": "MXN",
+        "multipleRecords": true,
+        "discount": false
+    },
+    {
+        "id": 6,
+        "area": "Patentes",
+        "articleNumber": "6a",
+        "articleName": "6a. Presentación de solicitud de patente",
+        "charge": 4550.00,
+        "currency": "MXN",
+        "multipleRecords": true,
+        "discount": false
+    },
+    {
+        "id": 7,
+        "area": "Patentes",
+        "articleNumber": "7a",
+        "articleName": "7a. Presentación de solicitud de patente",
+        "charge": 4550.00,
+        "currency": "MXN",
+        "multipleRecords": true,
+        "discount": false
+    }
+]
