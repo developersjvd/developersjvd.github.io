@@ -7,7 +7,8 @@
         "charge": 4550.00,
         "currency": "MXN",
         "multipleRecords": true,
-        "discount": false
+        "discount": false,
+        "state": false
     },
     {
         "id": 2,
@@ -17,7 +18,8 @@
         "charge": 4550.00,
         "currency": "MXN",
         "multipleRecords": false,
-        "discount": true
+        "discount": true,
+        "state": true
     },
     {
         "id": 3,
@@ -27,7 +29,8 @@
         "charge": 4550.00,
         "currency": "MXN",
         "multipleRecords": false,
-        "discount": false
+        "discount": false,
+        "state": false
     },
     {
         "id": 4,
@@ -37,7 +40,8 @@
         "charge": 4550.00,
         "currency": "MXN",
         "multipleRecords": false,
-        "discount": false
+        "discount": false,
+        "state": true
     },
     {
         "id": 5,
@@ -47,7 +51,8 @@
         "charge": 4550.00,
         "currency": "MXN",
         "multipleRecords": true,
-        "discount": true
+        "discount": true,
+        "state": false
     },
     {
         "id": 6,
@@ -57,7 +62,8 @@
         "charge": 4550.00,
         "currency": "MXN",
         "multipleRecords": true,
-        "discount": false
+        "discount": false,
+        "state": false
     },
     {
         "id": 7,
@@ -67,6 +73,7 @@
         "charge": 4550.00,
         "currency": "MXN",
         "multipleRecords": true,
-        "discount": true
+        "discount": true,
+        "state": true
     }
 ]
