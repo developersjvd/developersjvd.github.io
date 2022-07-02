@@ -1,0 +1,25 @@
+[
+  {
+    "id": 1,
+    "motherReference": "P204920MX",
+    "retaledReferences": "P204719",
+    "childReferences": [
+      {
+        "id": 1,
+        "name": "P204921MX_D",
+      },
+      {
+        "id": 2,
+        "name": "P204925MX_D",
+      },
+      {
+        "id": 3,
+        "name": "P204923MX_D",
+      },
+      {
+        "id": 4,
+        "name": "P204921MX_D",
+      },
+    ]
+  },
+]
