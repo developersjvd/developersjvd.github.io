@@ -1,0 +1,26 @@
+[
+        {
+            "id": 1,
+            "name": "Cristian Alejandro Rivera González",
+            "direction": "Avenida Tenochtitlan 215, Pocitos, Xochimilco, CDMX",
+            "nationality": "MX"
+        },
+        {
+            "id": 2,
+            "name": "Randy Reagan",
+            "direction": "699 Devonwood Way, Clinton MA 01510",
+            "nationality": "US"
+        },
+        {
+            "id": 3,
+            "name": "Craig Standish",
+            "direction": "1482 Mallard Place Waconia, MN 01510",
+            "nationality": "US"
+        },
+        {
+            "id": 4,
+            "name": "Yu Lu",
+            "direction": "1482 Mallard Place Waconia, MN 01510",
+            "nationality": "US"
+        }
+]
