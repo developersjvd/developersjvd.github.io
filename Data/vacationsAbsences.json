@@ -1,0 +1,54 @@
+[
+    {
+        "id": 1,
+        "employee": "Cristian Alejandro Rivera González",
+        "area": "Avenida Tenochtitlan 215, Pocitos, Xochimilco, CDMX",
+        "admissionDate": "MX",
+        "seniority": "MX",
+        "vacations": "MX",
+        "pendings": "MX",
+        "readmissionDate": "MX",
+        "observations": "MX",
+        "startDate": "11-05-2020",
+        "endDate": "11-05-2020"
+    },
+    {
+        "id": 2,
+        "employee": "Randy Reagan",
+        "area": "699 Devonwood Way, Clinton MA 01510",
+        "admissionDate": "US",
+        "seniority": "US",
+        "vacations": "US",
+        "pendings": "US",
+        "readmissionDate": "US",
+        "observations": "US",
+        "startDate": "11-05-2020",
+        "endDate": "11-05-2020"
+    },
+    {
+        "id": 3,
+        "employee": "Craig Standish",
+        "area": "1482 Mallard Place Waconia, MN 01510",
+        "admissionDate": "US",
+        "seniority": "US",
+        "vacations": "US",
+        "pendings": "US",
+        "readmissionDate": "US",
+        "observations": "US",
+        "startDate": "11-05-2020",
+        "endDate": "11-05-2020"
+    },
+    {
+        "id": 4,
+        "employee": "Yu Lu",
+        "area": "1482 Mallard Place Waconia, MN 01510",
+        "admissionDate": "US",
+        "seniority": "US",
+        "vacations": "US",
+        "pendings": "US",
+        "readmissionDate": "US",
+        "observations": "US",
+        "startDate": "11-05-2020",
+        "endDate": "11-05-2020"
+    }
+]
